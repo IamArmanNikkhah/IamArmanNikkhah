@@ -13,7 +13,6 @@ I’m a PhD candidate at the University of Texas at Dallas specializing in **rea
 ### 🧐 Selected Projects & Papers
 - **[MRF‑Entropy‑Calculation](https://github.com/IamArmanNikkhah/MRF-Entropy-Calculation)** – 3D Markov Random Field model to quantify spatial/temporal entropy in 360° videos, published at IMX 2024.
 - **[viewport‑entropy‑toolkit](https://github.com/IamArmanNikkhah/viewport-entropy-toolkit)** – Toolkit for generating viewport‑based entropy maps for immersive video datasets.
-- **[agentic_paper_enhancement](https://github.com/IamArmanNikkhah/agentic_paper_enhancement)** – Orchestrates multi‑agent workflows to draft, refine, and evaluate academic manuscripts.
 - **[ai‑synesthesia](https://github.com/IamArmanNikkhah/ai-synesthesia)** – Exploration of cross‑modal learning that teaches machines to see sounds and hear images.
 - **[DataAugmentor](https://github.com/IamArmanNikkhah/DataAugmentor)** – Novel linear‑algebra‑based data augmentation methods for deep learning.
 - **[VAE‑LSTM‑PyTorch](https://github.com/IamArmanNikkhah/VAE-LSTM-PyTorch)** – Variational Autoencoder with LSTM architecture for sequence modeling and generative tasks.
