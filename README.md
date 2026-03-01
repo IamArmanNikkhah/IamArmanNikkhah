@@ -1,4 +1,4 @@
-## 👋 Welcome! I'm Arman Nik Khah
+## 👋 Welcome!
 
 I’m a PhD candidate at the University of Texas at Dallas specializing in **real‑time media systems, immersive XR streaming**, and **intelligent networking**. My research spans efficient 360° video processing, adaptive streaming algorithms, and the intersection of machine learning with high‑performance computing.
 
@@ -14,7 +14,6 @@ I’m a PhD candidate at the University of Texas at Dallas specializing in **rea
 - **[MRF‑Entropy‑Calculation](https://github.com/IamArmanNikkhah/MRF-Entropy-Calculation)** – 3D Markov Random Field model to quantify spatial/temporal entropy in 360° videos, published at IMX 2024.
 - **[viewport‑entropy‑toolkit](https://github.com/IamArmanNikkhah/viewport-entropy-toolkit)** – Toolkit for generating viewport‑based entropy maps for immersive video datasets.
 - **[ai‑synesthesia](https://github.com/IamArmanNikkhah/ai-synesthesia)** – Exploration of cross‑modal learning that teaches machines to see sounds and hear images.
-- **[DataAugmentor](https://github.com/IamArmanNikkhah/DataAugmentor)** – Novel linear‑algebra‑based data augmentation methods for deep learning.
 - **[VAE‑LSTM‑PyTorch](https://github.com/IamArmanNikkhah/VAE-LSTM-PyTorch)** – Variational Autoencoder with LSTM architecture for sequence modeling and generative tasks.
 
 See my [research portfolio](https://github.com/IamArmanNikkhah/research-portfolio) for a full list of publications and projects.
